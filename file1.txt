@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is C4CB-13B5
+
+ Directory of D:\Git_Project\gitDemo1
+
+31-05-2022  09:30    <DIR>          .
+31-05-2022  09:28    <DIR>          ..
+31-05-2022  09:30                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  96,905,035,776 bytes free
